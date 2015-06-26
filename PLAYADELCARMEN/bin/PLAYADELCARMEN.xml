@@ -1,0 +1,309 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PLAYADELCARMEN
+</name>
+</assembly>
+<members>
+<member name="F:PLAYADELCARMEN.Logon.LogonForm">
+	<summary>
+LogonForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Logon.UserName">
+	<summary>
+UserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Logon.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Logon.InvalidCredentialsMessage">
+	<summary>
+InvalidCredentialsMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:PLAYADELCARMEN.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PLAYADELCARMEN.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PLAYADELCARMEN.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:PLAYADELCARMEN.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:PLAYADELCARMEN.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:PLAYADELCARMEN.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:PLAYADELCARMEN.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:PLAYADELCARMEN.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:PLAYADELCARMEN.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PLAYADELCARMEN.Report.frm">
+	<summary>
+frm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.scriptManager">
+	<summary>
+scriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbCLAVE_LOTE">
+	<summary>
+tbCLAVE_LOTE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbSuperficie">
+	<summary>
+tbSuperficie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbDepartmentos">
+	<summary>
+tbDepartmentos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbTiendas">
+	<summary>
+tbTiendas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbGastronomia">
+	<summary>
+tbGastronomia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbHotel">
+	<summary>
+tbHotel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbInstitucional">
+	<summary>
+tbInstitucional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbNotas">
+	<summary>
+tbNotas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbStatus">
+	<summary>
+tbStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.updatePnlClave">
+	<summary>
+updatePnlClave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.aspTableClaveFill">
+	<summary>
+aspTableClaveFill control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.aspTableClaveEmpty">
+	<summary>
+aspTableClaveEmpty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.gvClave">
+	<summary>
+gvClave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbCLAVE">
+	<summary>
+tbCLAVE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbCLAVE_ORG">
+	<summary>
+tbCLAVE_ORG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbNOMBRE">
+	<summary>
+tbNOMBRE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbNUMERO_PREDIO">
+	<summary>
+tbNUMERO_PREDIO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbCALLE_PREDIO">
+	<summary>
+tbCALLE_PREDIO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbUSO">
+	<summary>
+tbUSO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbTIPO_CONST">
+	<summary>
+tbTIPO_CONST control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbAREA">
+	<summary>
+tbAREA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbSEARCH">
+	<summary>
+tbSEARCH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.tbCLAVEsearch">
+	<summary>
+tbCLAVEsearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.aspTableSearchFill">
+	<summary>
+aspTableSearchFill control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.aspFindCLAVE">
+	<summary>
+aspFindCLAVE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLAYADELCARMEN.Report.gvSearch">
+	<summary>
+gvSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PLAYADELCARMEN.proxy">
+	<summary>
+ adapted from: http://code.google.com/p/iisproxy
+ </summary>
+</member>
+</members>
+</doc>
